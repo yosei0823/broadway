@@ -6,16 +6,15 @@ body{
 .h1-main{
   font-size: 70px;
   font-weight: bold;
-  color: white;
 }
 
 .h1-lists{
   font-size: 18px;
-  color: white;
 }
 
 .h1-all{
   background-image: url("./../images/the-flatiron-building.png");
+    color: white;
 }
 
 h2{
